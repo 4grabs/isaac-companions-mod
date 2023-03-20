@@ -1,10 +1,18 @@
-# companions
+# Companions
 
-companions is a mod for _[The Binding of Isaac: Repentance](https://store.steampowered.com/app/1426300/The_Binding_of_Isaac_Repentance/)_, written in [TypeScript](https://www.typescriptlang.org/) using the [IsaacScript](https://isaacscript.github.io/) framework.
+Companions is a cancelled mod for _[The Binding of Isaac: Repentance](https://store.steampowered.com/app/1426300/The_Binding_of_Isaac_Repentance/)_, written in [TypeScript](https://www.typescriptlang.org/) using the [IsaacScript](https://isaacscript.github.io/) framework.\
 
-## How To Play
+This would've added a special type of familiar known as a companion. Companions provide a unique passive effect, automatically attack enemies, and have an ability that can be activated by the player.
 
-For normal people, you can play the mod by subscribing to it on [the Steam Workshop](https://steamcommunity.com/app/250900/workshop/). (Subscribing to the mod will automatically download and install it once you launch the game.)
+Furthermore, companions can be interacted with and give out dialog which is influenced by many different factors, such as if the player has gotten the companion for the first time, dying in a run and getting the companion in the next run, what items the player has, and so on.
+
+Companions were planned to be obtainable through purchasing a special item in the shop which is always available, which allows you to pick the companion you want to spawn. You may only have up to one companion per run.
+
+### Contributing
+
+This mod is not far into development and has been cancelled. If you wish to continue it, be aware of the horrible codebase filled with prototyping.
+
+Furthermoe, this repository will not be maintained so you should fork this.
 
 ### How To Compile
 
