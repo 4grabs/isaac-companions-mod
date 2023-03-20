@@ -1,0 +1,8 @@
+<entities anm2root="gfx/" version="1" deathanm2="gfx/death enemies.anm2">
+  <!-- FAMILIARS (3) -->
+
+  <entity anm2path="familiar_LilUrna.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="3" name="Guppy Jr." numGridCollisionPoints="24" shadowSize="15" stageHP="0">
+    <gibs amount="6" blood="1" bone="1" eye="1" gut="1" large="0" />
+  </entity>
+
+</entities>

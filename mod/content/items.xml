@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/death items.anm2">
+  <active name="Companion Box" maxcharges="0" description="Summon Yourself A Companion!" quality="4" id="56" cache="familiar" tags="hidden quest" />
+  <active name="Guppy Jr." maxcharges="0" description="Summon Yourself A Companion!" quality="4" id="56" tags="hidden quest" />
+</items>
