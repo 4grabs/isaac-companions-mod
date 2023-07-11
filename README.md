@@ -1,6 +1,6 @@
 # Companions
 
-Companions is a cancelled mod for _[The Binding of Isaac: Repentance](https://store.steampowered.com/app/1426300/The_Binding_of_Isaac_Repentance/)_, written in [TypeScript](https://www.typescriptlang.org/) using the [IsaacScript](https://isaacscript.github.io/) framework.\
+Companions is a cancelled mod for _[The Binding of Isaac: Repentance](https://store.steampowered.com/app/1426300/The_Binding_of_Isaac_Repentance/)_, written in [TypeScript](https://www.typescriptlang.org/) using the [IsaacScript](https://isaacscript.github.io/) framework.
 
 This would've added a special type of familiar known as a companion. Companions provide a unique passive effect, automatically attack enemies, and have an ability that can be activated by the player.
 
@@ -10,9 +10,9 @@ Companions were planned to be obtainable through purchasing a special item in th
 
 ### Contributing
 
-This mod is not far into development and has been cancelled. If you wish to continue it, be aware of the horrible codebase filled with prototyping.
+This mod is not far into development and has been canceled. If you wish to continue it, be aware of the horrible codebase filled with prototyping.
 
-Furthermoe, this repository will not be maintained so you should fork this.
+Furthermore, this repository will not be maintained so you should fork this.
 
 ### How To Compile
 
@@ -21,7 +21,7 @@ If you are a developer, or the mod is not yet uploaded to the Steam Workshop, yo
 - Download and install [Node.js](https://nodejs.org/en/download/) (Windows Installer .msi, 64-bit).
 - Download and install [Git](https://git-scm.com/download/win) (64-bit Git for Windows setup).
 - Download (or clone) this repository:
-  - Click on the "Code" button in the top-right-corner of this page.
+  - Click on the "Code" button in the top-right corner of this page.
   - Click on "Download ZIP".
 - Unzip the zip file to a new directory.
 - Open up the repository folder and double-click on the `run.sh` script. If prompted, choose to open it with Git for Windows. You will see a Git Bash terminal window open.
